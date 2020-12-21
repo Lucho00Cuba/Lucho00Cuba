@@ -1,6 +1,6 @@
 
 <p align="center">
-<video src="/img/banner.mp4" width="640" height="480"></video>
+<img src="/img/banner.gif" width="500" alt="Linux Cuba"><br>
 </p>
 
 ## SysAdmin, DevOps, Pentester
