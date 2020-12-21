@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="/img/banner.gif" width="500" alt="Linux Cuba"><br>
+<img src="/img/banner.gif" width="900" alt="Linux Cuba"><br>
 </p>
 
 ## SysAdmin, DevOps, Pentester
