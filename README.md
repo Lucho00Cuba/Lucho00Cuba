@@ -44,3 +44,7 @@ Hi, I'm Luis Octavio, passionate about computer science
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lucho00cuba&repo=Portafolio&theme=dark" />
 </a>
+<a href="https://github.com/Malware-Dev-Latinos/Malware-Dev-Latinos">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Malware-Dev-Latinos&repo=Malware-Dev-Latinos&theme=dark" />
+</a>
