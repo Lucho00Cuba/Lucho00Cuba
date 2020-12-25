@@ -5,8 +5,14 @@
 
 ## Hi there, I'm [Lucho!](https://lucho00cuba.github.io) 👋
 
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="450" height="300" />
+
 <a href="https://twitter.com/Linux_Cuba">
   <img align="left" alt="Lucho | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://es.linkedin.com/in/luis-octavio-mota-verdasco-sys-admin">
+  <img align="left" alt="Lucho | Twitter" width="38px" src="https://logos-marcas.com/wp-content/uploads/2020/04/Linkedin-s%C3%ADmbolo.png" />
 </a>
 <a href="https://t.me/sysadmin_devops">
   <img align="left" alt="Lucho Telegram" width="21px" src="https://telegram.org/img/t_logo.png" />
