@@ -32,7 +32,7 @@ Hi, I'm Luis Octavio, passionate about computer science
 </a>
 
 <a href="https://github.com/Lucho00Cuba">
-  <img align="center" alt="Lucho | Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucho00cuba&layout=compact&hide=css, scss&theme=dark"/>
+  <img align="center" alt="Lucho | Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucho00cuba&layout=compact&hide=css, scss, javascript&theme=dark"/>
 </a>
 
 <a href="https://github.com/lucho00cuba/lucho00cuba.github.io">
@@ -47,4 +47,8 @@ Hi, I'm Luis Octavio, passionate about computer science
 <a href="https://github.com/Malware-Dev-Latinos/Malware-Dev-Latinos">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Malware-Dev-Latinos&repo=Malware-Dev-Latinos&theme=dark" />
+</a>
+<a href="https://github.com/Lucho00Cuba/Lucho00Cuba">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lucho00Cuba&repo=Lucho00Cuba&theme=dark" />
 </a>
