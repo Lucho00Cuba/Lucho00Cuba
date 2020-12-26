@@ -3,7 +3,7 @@
 <img src="/img/banner.gif" width="900" alt="Linux Cuba"><br>
 </p>
 
-## Hi there, I'm [Lucho!](https://lucho00cuba.github.io) 👋
+## Hi there, I'm [Lucho!](https://lucho00cuba.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="450" height="300" />
@@ -26,12 +26,29 @@ Hi, I'm Luis Octavio, passionate about computer science
 - 🌱 I’m currently learning Python and LPI
 - 💬 Ask me about anything [here](https://github.com/Lucho00Cuba/Lucho00Cuba/issues)
 
-**Languages and Tools:**  
+**Languages:**  
 
 <code><img height="30" src="https://www.ppaste.org/static/mini-logo.826ecc0aeca6.png"></code>
 <code><img height="30" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png"></code>
+<code><img height="30" src="https://blastcoding.com/wp-content/uploads/2018/10/CSS3.png"></code>
+<code><img height="30" src="https://gblobscdn.gitbook.com/spaces%2F-LqBMLf-xut24diONqox%2Favatar.png?alt=media"></code>
+
+**Operating Systems:**
+
+<code><img height="30" src="https://www.felinux.com.co/archivos/imagenes/png/b7/b72e258c.png"></code>
+<code><img height="30" src="https://www.mediacp.net/wp-content/uploads/2020/05/centos.png"></code>
+<code><img height="30" src="https://ugeek.github.io/blog/images-blog/ubuntu.png"></code>
+<code><img height="30" src="https://www.softexia.com/wp-content/uploads/2015/12/Windows-10-Logo-e1456135336195.png"></code>
+
+**Tools:**
+
+<code><img height="30" src="https://raw.githubusercontent.com/aledc7/git/master/git1.png"></code>
 <code><img height="30" src="https://d1q6f0aelx0por.cloudfront.net/product-logos/644d2f15-c5db-4731-a353-ace6235841fa-registry.png"></code>
-<code><img height="30" src="https://gblobscdn.gitbook.com/spaces%2F-LqBMLf-xut24diONqox%2Favatar.png?alt=media"></code>    
+<code><img height="30" src="https://miro.medium.com/max/512/0*1JWDyDwHG_mSRZl_.png"></code>
+<code><img height="30" src="https://code.visualstudio.com/assets/favicon.ico"></code>
+
+<br>
+<!--<code><img height="30" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"></code>-->
 
 <a href="https://github.com/Lucho00Cuba">
   <img align="center" alt="Lucho | Stats" src="https://github-readme-stats.vercel.app/api?username=lucho00cuba&show_icons=true&theme=dark" />
