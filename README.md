@@ -1,10 +1,9 @@
 
 <p align="center">
-<img src="/img/banner.gif" width="900" alt="Linux Cuba"><br>
+<img src="./img/banner.gif" width="900" alt="Linux Cuba"><br>
 </p>
 
 ## Hi there, I'm [Lucho!](https://lucho00cuba.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="450" height="300" />
 
@@ -45,6 +44,7 @@ Hi, I'm Luis Octavio, passionate about computer science
 <code><img height="35" src="https://raw.githubusercontent.com/aledc7/git/master/git1.png"></code>
 <code><img height="35" src="https://d1q6f0aelx0por.cloudfront.net/product-logos/644d2f15-c5db-4731-a353-ace6235841fa-registry.png"></code>
 <code><img height="35" src="https://miro.medium.com/max/512/0*1JWDyDwHG_mSRZl_.png"></code>
+<code><img height="35" src="https://cloudperu.pe/wp-content/uploads/2017/11/proxmox-1.png"></code>
 <code><img height="35" src="https://code.visualstudio.com/assets/favicon.ico"></code>
 
 <br>
@@ -75,3 +75,5 @@ Hi, I'm Luis Octavio, passionate about computer science
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lucho00Cuba&repo=Lucho00Cuba&theme=dark" />
 </a>
+
+<img src="https://media.giphy.com/media/KeQgaiv19rCEdVFnW8/giphy.gif" width="300" heigth="700">
