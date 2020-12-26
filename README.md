@@ -75,5 +75,3 @@ Hi, I'm Luis Octavio, passionate about computer science
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lucho00Cuba&repo=Lucho00Cuba&theme=dark" />
 </a>
-
-<img src="https://media.giphy.com/media/KeQgaiv19rCEdVFnW8/giphy.gif" width="300" heigth="700">
