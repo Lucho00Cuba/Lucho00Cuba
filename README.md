@@ -6,7 +6,7 @@
 ## Hi there, I'm [Lucho!](https://lucho00cuba.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--Banner de mas-->
-<!--<img align="right" alt="GIF" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="450" height="300" /> -->
+<img align="right" alt="GIF" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="450" height="300" /> -->
 
 <a href="https://twitter.com/Linux_Cuba">
   <img align="left" alt="Lucho | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
@@ -32,6 +32,7 @@ Hi, I'm Luis Octavio, passionate about computer science
 <code><img height="35" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png"></code>
 <code><img height="35" src="https://blastcoding.com/wp-content/uploads/2018/10/CSS3.png"></code>
 <code><img height="35" src="https://gblobscdn.gitbook.com/spaces%2F-LqBMLf-xut24diONqox%2Favatar.png?alt=media"></code>
+<code><img height="30" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b"></code>
 
 **Operating Systems:**
 
@@ -47,6 +48,7 @@ Hi, I'm Luis Octavio, passionate about computer science
 <code><img height="35" src="https://miro.medium.com/max/512/0*1JWDyDwHG_mSRZl_.png"></code>
 <code><img height="35" src="https://cloudperu.pe/wp-content/uploads/2017/11/proxmox-1.png"></code>
 <code><img height="35" src="https://code.visualstudio.com/assets/favicon.ico"></code>
+
 
 <br>
 <!--<code><img height="30" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"></code>-->
