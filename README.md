@@ -74,7 +74,7 @@ Hi, I'm Luis Octavio, passionate about computer science
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Malware-Dev-Latinos&repo=Malware-Dev-Latinos&theme=dark" />
 </a>
-<a href="https://github.com/Lucho00Cuba/Lucho00Cuba">
+<a href="https://github.com/Lucho00Cuba/Python">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lucho00Cuba&repo=Lucho00Cuba&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lucho00Cuba&repo=Python&theme=dark" />
 </a>
