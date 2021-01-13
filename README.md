@@ -24,6 +24,7 @@
 Hi, I'm Luis Octavio, passionate about computer science
 
 - 🌱 I’m currently learning Python and LPI
+- 👨‍💻 I am currently learning Penetration Tests
 - 💬 Ask me about anything [here](https://github.com/Lucho00Cuba/Lucho00Cuba/issues)
 
 **Languages:**  
