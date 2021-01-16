@@ -46,10 +46,11 @@ Hi, I'm Luis Octavio, passionate about computer science
 
 <code><img height="35" src="https://raw.githubusercontent.com/aledc7/git/master/git1.png"></code>
 <code><img height="35" src="https://d1q6f0aelx0por.cloudfront.net/product-logos/644d2f15-c5db-4731-a353-ace6235841fa-registry.png"></code>
-<code><img height="35" src="https://miro.medium.com/max/512/0*1JWDyDwHG_mSRZl_.png"></code>
 <code><img height="35" src="https://cloudperu.pe/wp-content/uploads/2017/11/proxmox-1.png"></code>
-<code><img height="35" src="https://code.visualstudio.com/assets/favicon.ico"></code>
-
+<code><img height="30" src="https://code.visualstudio.com/assets/favicon.ico"></code>
+<code><img height="35" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"></code>
+<code><img height="35" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"></code>
+<!--<code><img height="35" src="https://miro.medium.com/max/512/0*1JWDyDwHG_mSRZl_.png"></code>-->
 
 <br>
 <!--<code><img height="30" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"></code>-->
