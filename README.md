@@ -51,6 +51,9 @@ Hi, I'm Luis Octavio, passionate about computer science
 <code><img height="35" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"></code>
 <code><img height="35" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"></code>
 <!--<code><img height="35" src="https://miro.medium.com/max/512/0*1JWDyDwHG_mSRZl_.png"></code>-->
+<hr/>
+<script src="https://tryhackme.com/badge/293546"></script>
+<hr/>
 
 <br>
 <!--<code><img height="30" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"></code>-->
