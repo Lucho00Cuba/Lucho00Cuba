@@ -23,8 +23,7 @@
 
 Hi, I'm Luis Octavio, passionate about computer science
 
-- 🌱 I’m currently learning Python and LPI
-- 👨‍💻 I am currently learning Penetration Tests
+- 🌱👨‍💻 I’m currently learning Python and Penetration Tests
 - 💬 Ask me about anything [here](https://github.com/Lucho00Cuba/Lucho00Cuba/issues)
 
 **Languages:**  
@@ -41,6 +40,7 @@ Hi, I'm Luis Octavio, passionate about computer science
 <code><img height="35" src="https://blog.artegrafico.net/wp-content/uploads/2016/04/CentOS-7-logo-256x256.png"></code>
 <code><img height="35" src="https://ugeek.github.io/blog/images-blog/ubuntu.png"></code>
 <code><img height="35" src="https://www.softexia.com/wp-content/uploads/2015/12/Windows-10-Logo-e1456135336195.png"></code>
+<code><img height="35" src="https://itrig.de/uploads/parrot-logo-black.png"></code>
 
 **Tools:**
 
@@ -52,11 +52,12 @@ Hi, I'm Luis Octavio, passionate about computer science
 <code><img height="35" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"></code>
 <code><img height="35" src="https://miro.medium.com/max/512/0*1JWDyDwHG_mSRZl_.png"></code>
 
+<!--
 <hr/>
 <img src="https://tryhackme-badges.s3.amazonaws.com/zzJustMezz.png" alt="TryHackMe">
 <hr/>
-
 <br>
+-->
 <!--<code><img height="30" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"></code>-->
 
 <a href="https://github.com/Lucho00Cuba">
