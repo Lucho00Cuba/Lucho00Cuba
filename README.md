@@ -1,9 +1,10 @@
 
+<!--
 <p align="center">
 <img src="./img/banner.gif" width="900" alt="Linux Cuba"><br>
 </p>
-
-## Hi there, I'm [Lucho | Just_Me](https://lucho00cuba.github.io) <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">-->
+-->
+## Hi there, I'm [Lucho | Just_Me](https://lucho00cuba.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--Banner de mas-->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="450" height="300" />
