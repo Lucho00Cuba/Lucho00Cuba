@@ -48,7 +48,6 @@ Hi, I'm Luis Octavio, passionate about computer science
 <code><img height="35" src="https://raw.githubusercontent.com/aledc7/git/master/git1.png"></code>
 <code><img height="35" src="https://d1q6f0aelx0por.cloudfront.net/product-logos/644d2f15-c5db-4731-a353-ace6235841fa-registry.png"></code>
 <code><img height="35" src="https://0101land.com/wp-content/uploads/2020/02/unnamed.png"></code>
-<code><img height="35" src="https://www.irontec.com/image/trainingsFull/12-curso-virtualizacion-proxmox-kvm-openvz-linux.png"></code>
 <code><img height="30" src="https://code.visualstudio.com/assets/favicon.ico"></code>
 <code><img height="35" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"></code>
 <code><img height="35" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"></code>
