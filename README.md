@@ -30,10 +30,9 @@ Hi, I'm Luis Octavio, passionate about computer science
 **Languages:**  
 
 <code><img height="35" src="https://www.ppaste.org/static/mini-logo.826ecc0aeca6.png"></code>
-<code><img height="35" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png"></code>
-<code><img height="35" src="https://blastcoding.com/wp-content/uploads/2018/10/CSS3.png"></code>
 <code><img height="35" src="https://gblobscdn.gitbook.com/spaces%2F-LqBMLf-xut24diONqox%2Favatar.png?alt=media"></code>
 <code><img height="30" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b"></code>
+<code><img height="33" src="https://soka.gitlab.io/blog/post/2019-11-30-ps-apagar-reiniciar-cerrar-sesion/img/logo2.png"></code>
 
 **Operating Systems:**
 
