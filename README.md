@@ -9,7 +9,7 @@
 <!--Banner de mas-->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="450" height="300" />
 
-<a href="https://twitter.com/Linux_Cuba">
+<a href="https://twitter.com/zzjust_mezz">
   <img align="left" alt="Lucho | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://es.linkedin.com/in/luis-octavio-mota-verdasco-sys-admin">
