@@ -24,7 +24,7 @@
 
 Hi, I'm Luis Octavio, passionate about computer science
 
-- 🌱👨‍💻 I’m currently learning to be a **sysadmin**
+- 🌱👨‍💻 I’m currently learning to be a **sysadmin** and **pentesting**
 - 💬 Ask me about anything [here](https://github.com/Lucho00Cuba/Lucho00Cuba/issues)
 
 **Languages:**  
@@ -50,11 +50,6 @@ Hi, I'm Luis Octavio, passionate about computer science
 <code><img height="35" src="https://www.docker.com/blog/wp-content/uploads/Rancher-Logo-Final-1.png"></code>
 <code><img height="35" src="https://cursosdedesarrollo.com/wp-content/uploads/2020/03/k-logo.png"></code>
 <code><img height="35" src="https://florianmuller.com/wp-content/uploads/2020/05/Proxmox-VE-Logo.png"></code>
-<code><img height="30" src="https://code.visualstudio.com/assets/favicon.ico"></code>
-<code><img height="35" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"></code>
-<code><img height="35" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"></code>
-<code><img height="35" src="https://miro.medium.com/max/512/0*1JWDyDwHG_mSRZl_.png"></code>
-<!--<code><img height="35" src="https://0101land.com/wp-content/uploads/2020/02/unnamed.png"></code>-->
 <!--
 <hr/>
 <img src="https://tryhackme-badges.s3.amazonaws.com/zzJustMezz.png" alt="TryHackMe">
