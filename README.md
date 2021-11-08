@@ -24,7 +24,7 @@
 
 Hi, I'm Luis Octavio, passionate about computer science
 
-- 🌱👨‍💻 I’m currently learning to be a **sysadmin** and **pentesting**
+- 🌱👨‍💻 I’m currently learning to be a **DevOps/SRE**
 - 💬 Ask me about anything [here](https://github.com/Lucho00Cuba/Lucho00Cuba/issues)
 
 **Languages:**  
