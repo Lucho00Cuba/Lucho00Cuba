@@ -29,10 +29,10 @@ Hi, I'm Luis Octavio, passionate about computer science
 
 **Languages:**  
 
-<code><img height="35" src="https://www.ppaste.org/static/mini-logo.826ecc0aeca6.png"></code>
 <code><img height="35" src="https://gblobscdn.gitbook.com/spaces%2F-LqBMLf-xut24diONqox%2Favatar.png?alt=media"></code>
-<code><img height="30" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png?width=256&s=3e825b7205c7f497d4695028e358d26ee359f84b"></code>
-<code><img height="33" src="https://soka.gitlab.io/blog/post/2019-11-30-ps-apagar-reiniciar-cerrar-sesion/img/logo2.png"></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
+<code><img height="32" src="https://i2.wp.com/golangdojo.com/wp-content/uploads/2021/02/external-content.duckduckgo.com_.png?resize=752%2C1024&ssl=1"></code>
+<code><img height="32" src="https://i1.wp.com/buconda.com/wp-content/uploads/2019/06/mysql-logo.png?fit=759%2C500&ssl=1"></code>
 
 **Operating Systems:**
 
@@ -44,6 +44,7 @@ Hi, I'm Luis Octavio, passionate about computer science
 
 **Tools:**
 
+<code><img height="32" src="https://soka.gitlab.io/blog/post/2019-11-30-ps-apagar-reiniciar-cerrar-sesion/img/logo2.png"></code>
 <code><img height="35" src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png"></code>
 <code><img height="35" src="https://d1q6f0aelx0por.cloudfront.net/product-logos/644d2f15-c5db-4731-a353-ace6235841fa-registry.png"></code>
 <code><img height="35" src="https://www.docker.com/blog/wp-content/uploads/2020/02/Compose.png"></code>
