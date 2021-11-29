@@ -33,24 +33,25 @@ Hi, I'm Luis Octavio, passionate about computer science
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
 <code><img height="32" src="https://i2.wp.com/golangdojo.com/wp-content/uploads/2021/02/external-content.duckduckgo.com_.png?resize=752%2C1024&ssl=1"></code>
 <code><img height="32" src="https://i1.wp.com/buconda.com/wp-content/uploads/2019/06/mysql-logo.png?fit=759%2C500&ssl=1"></code>
+<code><img height="32" src="https://soka.gitlab.io/blog/post/2019-11-30-ps-apagar-reiniciar-cerrar-sesion/img/logo2.png"></code>
 
 **Operating Systems:**
 
-<code><img height="35" src="https://www.felinux.com.co/archivos/imagenes/png/b7/b72e258c.png"></code>
 <code><img height="35" src="https://blog.artegrafico.net/wp-content/uploads/2016/04/CentOS-7-logo-256x256.png"></code>
+<code><img height="35" src="https://www.felinux.com.co/archivos/imagenes/png/b7/b72e258c.png"></code>
 <code><img height="35" src="https://ugeek.github.io/blog/images-blog/ubuntu.png"></code>
 <code><img height="35" src="https://www.softexia.com/wp-content/uploads/2015/12/Windows-10-Logo-e1456135336195.png"></code>
 <code><img height="35" src="https://itrig.de/uploads/parrot-logo-black.png"></code>
 
 **Tools:**
 
-<code><img height="32" src="https://soka.gitlab.io/blog/post/2019-11-30-ps-apagar-reiniciar-cerrar-sesion/img/logo2.png"></code>
-<code><img height="35" src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png"></code>
-<code><img height="35" src="https://d1q6f0aelx0por.cloudfront.net/product-logos/644d2f15-c5db-4731-a353-ace6235841fa-registry.png"></code>
-<code><img height="35" src="https://www.docker.com/blog/wp-content/uploads/2020/02/Compose.png"></code>
-<code><img height="35" src="https://www.docker.com/blog/wp-content/uploads/Rancher-Logo-Final-1.png"></code>
-<code><img height="35" src="https://cursosdedesarrollo.com/wp-content/uploads/2020/03/k-logo.png"></code>
 <code><img height="35" src="https://florianmuller.com/wp-content/uploads/2020/05/Proxmox-VE-Logo.png"></code>
+<code><img height="32" src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png"></code>
+<code><img height="40" src="https://d1q6f0aelx0por.cloudfront.net/product-logos/644d2f15-c5db-4731-a353-ace6235841fa-registry.png"></code>
+<code><img height="38" src="https://www.docker.com/blog/wp-content/uploads/2020/02/Compose.png"></code>
+<code><img height="37" src="https://www.docker.com/blog/wp-content/uploads/Rancher-Logo-Final-1.png"></code>
+<code><img height="35" src="https://cursosdedesarrollo.com/wp-content/uploads/2020/03/k-logo.png"></code>
+<code><img height="38" src="https://www.suse.com/c/wp-content/uploads/2021/09/rancher_blog_traefik.logo_.png"></code>
 <!--
 <hr/>
 <img src="https://tryhackme-badges.s3.amazonaws.com/zzJustMezz.png" alt="TryHackMe">
