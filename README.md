@@ -33,7 +33,8 @@ Hi, I'm Luis Octavio, passionate about computer science
 <table>
   <!-- Languages -->
   <tr>
-    <th><h3>Languages</h3></th>
+    <th><th>
+    <th colspan="5"><h3>Languages</h3></th>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -72,7 +73,8 @@ Hi, I'm Luis Octavio, passionate about computer science
 <table>
   <!--OS -->
   <tr>
-    <th><h3>OS</h3></th>
+    <th><th>
+    <th colspan="5"><h3>OS</h3></th>
   </tr>
   <tr>
     <td align="center" width="80"> 
@@ -111,7 +113,8 @@ Hi, I'm Luis Octavio, passionate about computer science
 <table>
   <!--TOOLS-->
   <tr>
-    <th><h3>Tools</h3></th>
+    <th><th>
+    <th colspan="6"><h3>Tools</h3></th>
   </tr>
   <tr>
     <td align="center" width="80">
