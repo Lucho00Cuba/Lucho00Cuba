@@ -33,8 +33,9 @@ Hi, I'm Luis Octavio, passionate about computer science
 <table>
   <!-- Languages -->
   <tr>
-    <th><th>
-    <th colspan="5"><h3>Languages</h3></th>
+    <th>
+    <th colspan="3"><h3>Languages</h3></th>
+    <th>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -49,19 +50,19 @@ Hi, I'm Luis Octavio, passionate about computer science
       </a>
       <br>Python
     </td>
-    <td align="center" width="80">
+    <td align="center" width="96">
       <a href="#Lucho00Cuba">
         <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" width="80" height="60" alt="Go" />
       </a>
       <br>Go
     </td>
-    <td align="center" width="80">
+    <td align="center" width="96">
       <a href="#Lucho00Cuba">
         <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="80" height="60" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
-    <td align="center" width="80">
+    <td align="center" width="96">
       <a href="#Lucho00Cuba">
         <img src="https://docs.microsoft.com/es-es/powershell/media/index/ps_black_128.svg" width="38" height="38" alt="Powershell" />
       </a>
@@ -73,35 +74,36 @@ Hi, I'm Luis Octavio, passionate about computer science
 <table>
   <!--OS -->
   <tr>
-    <th><th>
-    <th colspan="5"><h3>OS</h3></th>
+    <th>
+    <th colspan="3"><h3>OS</h3></th>
+    <th>
   </tr>
   <tr>
-    <td align="center" width="80"> 
+    <td align="center" width="96"> 
       <a href="#Lucho00Cuba" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" width="38" height="38" alt="Debian" />
       </a>
       <br>Debian
     </td>
-    <td align="center" width="80">
+    <td align="center" width="96">
       <a href="#Lucho00Cuba" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="38" height="48" alt="Ubuntu"/>
       </a>
       <br>Ubuntu
     </td>
-    <td align="center" width="80">
+    <td align="center" width="96">
       <a href="#Lucho00Cuba" >
         <img src="https://www.bluejeans.com/sites/default/files/red-hat.svg" width="38" height="48" alt="RedHat"/>
       </a>
       <br>RedHat
     </td>
-    <td align="center" width="80">
+    <td align="center" width="96">
       <a href="#Lucho00Cuba">
         <img src="https://www.softexia.com/wp-content/uploads/2015/12/Windows-10-Logo-e1456135336195.png" width="38" height="38" alt="Windows"/>
       </a>
       <br>Windows
     </td>
-    <td align="center" width="80">
+    <td align="center" width="96">
       <a href="#Lucho00Cuba">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" width="38" height="38" alt="Parrot OS"/>
       </a>
@@ -113,41 +115,42 @@ Hi, I'm Luis Octavio, passionate about computer science
 <table>
   <!--TOOLS-->
   <tr>
-    <th><th>
-    <th colspan="6"><h3>Tools</h3></th>
+    <th>
+    <th colspan="4"><h3>Tools</h3></th>
+    <th>
   </tr>
   <tr>
-    <td align="center" width="80">
+    <td align="center" width="96">
       <a href="#Lucho00Cuba">
         <img src="https://www.masterdc.com/mydata/myuploads/2021/03/Proxmox.svg" width="38" height="38" alt="Proxmox" />
       </a>
       <br>Proxmox
     </td>
-    <td align="center" width="80">
+    <td align="center" width="96">
       <a href="#Lucho00Cuba" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="38" height="38" alt="Git" />
       </a>
       <br>Git
     </td>
-    <td align="center" width="80">
+    <td align="center" width="96">
       <a href="#Lucho00Cuba">
         <img src="https://ugeek.github.io/blog/images-blog/docker.png" width="50" height="40" alt="Docker" />
       </a>
       <br>Docker
     </td>
-    <td align="center" width="80">
+    <td align="center" width="96">
       <a href="#Lucho00Cuba">
         <img src="https://www.docker.com/blog/wp-content/uploads/2020/02/Compose.png" width="45" height="45" alt="Docker Compose" />
       </a>
       <br>Docker Compose
     </td>
-    <td align="center" width="80">
+    <td align="center" width="96">
       <a href="#Lucho00Cuba">
         <img src="https://rancher.com/assets/img/logos/rancher-logo-cow-blue.svg" width="48" height="48" alt="Rancher" />
       </a>
       <br>Rancher
     </td>
-    <td align="center" width="80">
+    <td align="center" width="96">
       <a href="#Lucho00Cuba">
         <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="38" height="38" alt="Kubernetes" />
       </a>
@@ -156,31 +159,31 @@ Hi, I'm Luis Octavio, passionate about computer science
   </tr>
 
   <tr>
-    <td align="center" width="80">
+    <td align="center" width="96">
       <a href="#Lucho00Cuba">
         <img src="https://www.channelbiz.es/wp-content/uploads/2012/04/openstack-logo512.png" width="48" height="48" alt="Openstack" />
       </a>
       <br>Openstack
     </td>
-    <td align="center" width="80">
+    <td align="center" width="96">
       <a href="#Lucho00Cuba">
         <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nginx_icon_130305.png" width="48" height="48" alt="Nginx" />
       </a>
       <br>Nginx
     </td>
-    <td align="center" width="80">
+    <td align="center" width="96">
       <a href="#Lucho00Cuba">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Traefik.logo.png" width="38" height="48" alt="Traefik" />
       </a>
       <br>Traefik
     </td>
-    <td align="center" width="80">
+    <td align="center" width="96">
       <a href="#Lucho00Cuba">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="38" height="48" alt="Ansible" />
       </a>
       <br>Ansible
     </td>
-    <td align="center" width="80">
+    <td align="center" width="96">
       <a href="#Lucho00Cuba">
         <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png" width="38" height="48" alt="Terraform" />
       </a>
