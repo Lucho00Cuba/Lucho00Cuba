@@ -19,15 +19,19 @@
   <img align="left" alt="Lucho Telegram" width="21px" src="https://telegram.org/img/t_logo.png" />
 </a>
 
-<br><br>
+<br>
+<br>
 
 Hi, I'm Luis Octavio, passionate about computer science
 
 - 🌱👨‍💻 I’m currently learning to be a **DevOps/SRE**
 - 💬 Ask me about anything [here](https://github.com/Lucho00Cuba/Lucho00Cuba/issues)
 
-<!-- Languages -->
+<br>
+<br>
+
 <table align="center">
+  <!-- Languages -->
   <tr>
     <th><h3>Languages</h3></th>
   </tr>
@@ -40,19 +44,19 @@ Hi, I'm Luis Octavio, passionate about computer science
     </td>
     <td align="center" width="96">
       <a href="#Lucho00Cuba">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="30" height="35" alt="Python" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="38" height="38" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="80">
       <a href="#Lucho00Cuba">
-        <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" width="80" height="50" alt="Go" />
+        <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" width="80" height="60" alt="Go" />
       </a>
       <br>Go
     </td>
     <td align="center" width="80">
       <a href="#Lucho00Cuba">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="38" height="38" alt="MySQL" />
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="80" height="60" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
@@ -63,12 +67,10 @@ Hi, I'm Luis Octavio, passionate about computer science
       <br>Powershell
     </td>
   </tr>
-</table>
 
-<!-- OS -->
-<table align="center">
+  <!--OS -->
   <tr>
-    <th><h3>Operating Systems</h3></th>
+    <th><h3>OS</h3></th>
   </tr>
   <tr>
     <td align="center" width="80"> 
@@ -102,9 +104,8 @@ Hi, I'm Luis Octavio, passionate about computer science
       <br>Parrot OS
     </td>
   </tr>
-</table>
 
-<table>
+  <!--TOOLS-->
   <tr>
     <th><h3>Tools</h3></th>
   </tr>
@@ -189,26 +190,40 @@ Hi, I'm Luis Octavio, passionate about computer science
 -->
 <!--<code><img height="30" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"></code>-->
 
+<br><hr>
 
-<!--<a href="https://github.com/Lucho00Cuba">
-<!--  <img alt="Lucho | Stats" src="https://github-readme-stats.vercel.app/api?username=lucho00cuba&show_icons=true&theme=dark" />
-<!--</a>
-<!--
-<!--<a href="https://github.com/Lucho00Cuba">
-<!--  <img alt="Lucho | Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucho00cuba&layout=compact&hide=css, scss, javascript&theme=dark"/>
-<!--</a>
-<!--<br>
-<!--<a href="https://github.com/lucho00cuba/lucho00cuba.github.io">
-<!--  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lucho00cuba&repo=lucho00cuba.github.io&theme=dark" />
-<!--</a>
-<!--
-<!--<a href="https://github.com/lucho00cuba/Portafolio">
-<!--  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lucho00cuba&repo=Portafolio&theme=dark" />
-<!--</a>
-<!--
-<a href="https://github.com/Malware-Dev-Latinos/Malware-Dev-Latinos"> -->
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Lucho00Cuba">
+        <img alt="Lucho | Stats" src="https://github-readme-stats.vercel.app/api?username=lucho00cuba&show_icons=true&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Lucho00Cuba">
+        <img alt="Lucho | Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucho00cuba&layout=compact&hide=css, scss, javascript&theme=dark"/>
+      </a>
+    </td>
+  </tr>
+  <br>
+  <tr>
+    <td>
+      <a href="https://github.com/lucho00cuba/lucho00cuba.github.io">
+        <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lucho00cuba&repo=lucho00cuba.github.io&theme=dark" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/lucho00cuba/Portafolio">
+        <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lucho00cuba&repo=Portafolio&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+<!--<a href="https://github.com/Malware-Dev-Latinos/Malware-Dev-Latinos"> -->
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
 <!--
