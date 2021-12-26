@@ -52,13 +52,13 @@ Hi, I'm Luis Octavio, passionate about computer science
     </td>
     <td align="center" width="96">
       <a href="#Lucho00Cuba">
-        <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" width="80" height="60" alt="Go" />
+        <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+go+gopher-1324451308133525243.png" width="40" height="38" alt="Go" />
       </a>
       <br>Go
     </td>
     <td align="center" width="96">
       <a href="#Lucho00Cuba">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="80" height="60" alt="MySQL" />
+        <img src="https://picodotdev.github.io/blog-bitix/assets/images/logotypes/mysql.svg" width="50" height="35" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
@@ -70,6 +70,8 @@ Hi, I'm Luis Octavio, passionate about computer science
     </td>
   </tr>
 </table>
+
+<br>
 
 <table>
   <!--OS -->
@@ -105,12 +107,14 @@ Hi, I'm Luis Octavio, passionate about computer science
     </td>
     <td align="center" width="96">
       <a href="#Lucho00Cuba">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" width="38" height="38" alt="Parrot OS"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" width="38" height="38" alt="Parrot"/>
       </a>
-      <br>Parrot OS
+      <br>Parrot
     </td>
   </tr>
 </table>
+
+<br>
 
 <table>
   <!--TOOLS-->
