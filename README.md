@@ -30,7 +30,7 @@ Hi, I'm Luis Octavio, passionate about computer science
 <br>
 <br>
 
-<table align="center">
+<table>
   <!-- Languages -->
   <tr>
     <th><h3>Languages</h3></th>
@@ -67,7 +67,9 @@ Hi, I'm Luis Octavio, passionate about computer science
       <br>Powershell
     </td>
   </tr>
+</table>
 
+<table>
   <!--OS -->
   <tr>
     <th><h3>OS</h3></th>
@@ -104,7 +106,9 @@ Hi, I'm Luis Octavio, passionate about computer science
       <br>Parrot OS
     </td>
   </tr>
+</table>
 
+<table>
   <!--TOOLS-->
   <tr>
     <th><h3>Tools</h3></th>
@@ -221,6 +225,10 @@ Hi, I'm Luis Octavio, passionate about computer science
     </td>
   </tr>
 </table>
+
+<br>
+
+<!--[![JustMe github activity graph](https://activity-graph.herokuapp.com/graph?username=Lucho00Cuba&theme=xcode)](https://github.com/Lucho00Cuba)-->
 
 
 <!--<a href="https://github.com/Malware-Dev-Latinos/Malware-Dev-Latinos"> -->
