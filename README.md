@@ -1,13 +1,13 @@
 
 <!--
-<p align="center">
+<p>
 <img src="./img/banner.gif" width="900" alt="Linux Cuba"><br>
 </p>
 -->
 ## Hi there, I'm [Lucho | Just_Me](https://lucho00cuba.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--Banner de mas-->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="450" height="300" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="300" height="180" />
 
 <a href="https://twitter.com/zzjust_mezz">
   <img align="left" alt="Lucho | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
@@ -19,39 +19,168 @@
   <img align="left" alt="Lucho Telegram" width="21px" src="https://telegram.org/img/t_logo.png" />
 </a>
 
-<br />
-<br />
+<br><br>
 
 Hi, I'm Luis Octavio, passionate about computer science
 
 - 🌱👨‍💻 I’m currently learning to be a **DevOps/SRE**
 - 💬 Ask me about anything [here](https://github.com/Lucho00Cuba/Lucho00Cuba/issues)
 
-**Languages:**  
+<!-- Languages -->
+<table align="center">
+  <tr>
+    <th><h3>Languages</h3></th>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#Lucho00Cuba">
+        <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" width="30" height="35" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <a href="#Lucho00Cuba">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="30" height="35" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="80">
+      <a href="#Lucho00Cuba">
+        <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" width="80" height="50" alt="Go" />
+      </a>
+      <br>Go
+    </td>
+    <td align="center" width="80">
+      <a href="#Lucho00Cuba">
+        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="38" height="38" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="80">
+      <a href="#Lucho00Cuba">
+        <img src="https://docs.microsoft.com/es-es/powershell/media/index/ps_black_128.svg" width="38" height="38" alt="Powershell" />
+      </a>
+      <br>Powershell
+    </td>
+  </tr>
+</table>
 
-<code><img height="35" src="https://gblobscdn.gitbook.com/spaces%2F-LqBMLf-xut24diONqox%2Favatar.png?alt=media"></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"></code>
-<code><img height="32" src="https://i2.wp.com/golangdojo.com/wp-content/uploads/2021/02/external-content.duckduckgo.com_.png?resize=752%2C1024&ssl=1"></code>
-<code><img height="32" src="https://i1.wp.com/buconda.com/wp-content/uploads/2019/06/mysql-logo.png?fit=759%2C500&ssl=1"></code>
-<code><img height="32" src="https://soka.gitlab.io/blog/post/2019-11-30-ps-apagar-reiniciar-cerrar-sesion/img/logo2.png"></code>
+<!-- OS -->
+<table align="center">
+  <tr>
+    <th><h3>Operating Systems</h3></th>
+  </tr>
+  <tr>
+    <td align="center" width="80"> 
+      <a href="#Lucho00Cuba" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Debian-OpenLogo.svg" width="38" height="38" alt="Debian" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center" width="80">
+      <a href="#Lucho00Cuba" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="38" height="48" alt="Ubuntu"/>
+      </a>
+      <br>Ubuntu
+    </td>
+    <td align="center" width="80">
+      <a href="#Lucho00Cuba" >
+        <img src="https://www.bluejeans.com/sites/default/files/red-hat.svg" width="38" height="48" alt="RedHat"/>
+      </a>
+      <br>RedHat
+    </td>
+    <td align="center" width="80">
+      <a href="#Lucho00Cuba">
+        <img src="https://www.softexia.com/wp-content/uploads/2015/12/Windows-10-Logo-e1456135336195.png" width="38" height="38" alt="Windows"/>
+      </a>
+      <br>Windows
+    </td>
+    <td align="center" width="80">
+      <a href="#Lucho00Cuba">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" width="38" height="38" alt="Parrot OS"/>
+      </a>
+      <br>Parrot OS
+    </td>
+  </tr>
+</table>
 
-**Operating Systems:**
+<table>
+  <tr>
+    <th><h3>Tools</h3></th>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <a href="#Lucho00Cuba">
+        <img src="https://www.masterdc.com/mydata/myuploads/2021/03/Proxmox.svg" width="38" height="38" alt="Proxmox" />
+      </a>
+      <br>Proxmox
+    </td>
+    <td align="center" width="80">
+      <a href="#Lucho00Cuba" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="38" height="38" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="80">
+      <a href="#Lucho00Cuba">
+        <img src="https://ugeek.github.io/blog/images-blog/docker.png" width="50" height="40" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="80">
+      <a href="#Lucho00Cuba">
+        <img src="https://www.docker.com/blog/wp-content/uploads/2020/02/Compose.png" width="45" height="45" alt="Docker Compose" />
+      </a>
+      <br>Docker Compose
+    </td>
+    <td align="center" width="80">
+      <a href="#Lucho00Cuba">
+        <img src="https://rancher.com/assets/img/logos/rancher-logo-cow-blue.svg" width="48" height="48" alt="Rancher" />
+      </a>
+      <br>Rancher
+    </td>
+    <td align="center" width="80">
+      <a href="#Lucho00Cuba">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="38" height="38" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+  </tr>
 
-<code><img height="35" src="https://blog.artegrafico.net/wp-content/uploads/2016/04/CentOS-7-logo-256x256.png"></code>
-<code><img height="35" src="https://www.felinux.com.co/archivos/imagenes/png/b7/b72e258c.png"></code>
-<code><img height="35" src="https://ugeek.github.io/blog/images-blog/ubuntu.png"></code>
-<code><img height="35" src="https://www.softexia.com/wp-content/uploads/2015/12/Windows-10-Logo-e1456135336195.png"></code>
-<code><img height="35" src="https://itrig.de/uploads/parrot-logo-black.png"></code>
+  <tr>
+    <td align="center" width="80">
+      <a href="#Lucho00Cuba">
+        <img src="https://www.channelbiz.es/wp-content/uploads/2012/04/openstack-logo512.png" width="48" height="48" alt="Openstack" />
+      </a>
+      <br>Openstack
+    </td>
+    <td align="center" width="80">
+      <a href="#Lucho00Cuba">
+        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nginx_icon_130305.png" width="48" height="48" alt="Nginx" />
+      </a>
+      <br>Nginx
+    </td>
+    <td align="center" width="80">
+      <a href="#Lucho00Cuba">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Traefik.logo.png" width="38" height="48" alt="Traefik" />
+      </a>
+      <br>Traefik
+    </td>
+    <td align="center" width="80">
+      <a href="#Lucho00Cuba">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="38" height="48" alt="Ansible" />
+      </a>
+      <br>Ansible
+    </td>
+    <td align="center" width="80">
+      <a href="#Lucho00Cuba">
+        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png" width="38" height="48" alt="Terraform" />
+      </a>
+      <br>Terraform
+    </td>
+  </tr>
+</table>
 
-**Tools:**
-
-<code><img height="35" src="https://florianmuller.com/wp-content/uploads/2020/05/Proxmox-VE-Logo.png"></code>
-<code><img height="32" src="https://miro.medium.com/max/325/1*zzvdRmHGGXONZpuQ2FeqsQ.png"></code>
-<code><img height="40" src="https://d1q6f0aelx0por.cloudfront.net/product-logos/644d2f15-c5db-4731-a353-ace6235841fa-registry.png"></code>
-<code><img height="38" src="https://www.docker.com/blog/wp-content/uploads/2020/02/Compose.png"></code>
-<code><img height="37" src="https://www.docker.com/blog/wp-content/uploads/Rancher-Logo-Final-1.png"></code>
-<code><img height="35" src="https://cursosdedesarrollo.com/wp-content/uploads/2020/03/k-logo.png"></code>
-<code><img height="38" src="https://www.suse.com/c/wp-content/uploads/2021/09/rancher_blog_traefik.logo_.png"></code>
 <!--
 <hr/>
 <img src="https://tryhackme-badges.s3.amazonaws.com/zzJustMezz.png" alt="TryHackMe">
@@ -60,31 +189,32 @@ Hi, I'm Luis Octavio, passionate about computer science
 -->
 <!--<code><img height="30" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"></code>-->
 
-<a href="https://github.com/Lucho00Cuba">
-  <img align="center" alt="Lucho | Stats" src="https://github-readme-stats.vercel.app/api?username=lucho00cuba&show_icons=true&theme=dark" />
-</a>
 
-<a href="https://github.com/Lucho00Cuba">
-  <img align="center" alt="Lucho | Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucho00cuba&layout=compact&hide=css, scss, javascript&theme=dark"/>
-</a>
-<br>
-<a href="https://github.com/lucho00cuba/lucho00cuba.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lucho00cuba&repo=lucho00cuba.github.io&theme=dark" />
-</a>
-
-<a href="https://github.com/lucho00cuba/Portafolio">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lucho00cuba&repo=Portafolio&theme=dark" />
-</a>
+<!--<a href="https://github.com/Lucho00Cuba">
+<!--  <img alt="Lucho | Stats" src="https://github-readme-stats.vercel.app/api?username=lucho00cuba&show_icons=true&theme=dark" />
+<!--</a>
+<!--
+<!--<a href="https://github.com/Lucho00Cuba">
+<!--  <img alt="Lucho | Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucho00cuba&layout=compact&hide=css, scss, javascript&theme=dark"/>
+<!--</a>
+<!--<br>
+<!--<a href="https://github.com/lucho00cuba/lucho00cuba.github.io">
+<!--  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lucho00cuba&repo=lucho00cuba.github.io&theme=dark" />
+<!--</a>
+<!--
+<!--<a href="https://github.com/lucho00cuba/Portafolio">
+<!--  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lucho00cuba&repo=Portafolio&theme=dark" />
+<!--</a>
 <!--
 <a href="https://github.com/Malware-Dev-Latinos/Malware-Dev-Latinos"> -->
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
 <!--
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Malware-Dev-Latinos&repo=Malware-Dev-Latinos&theme=dark" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Malware-Dev-Latinos&repo=Malware-Dev-Latinos&theme=dark" />
 </a>
 <a href="https://github.com/Lucho00Cuba/Python">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lucho00Cuba&repo=Python&theme=dark" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lucho00Cuba&repo=Python&theme=dark" />
 </a>
 -->
