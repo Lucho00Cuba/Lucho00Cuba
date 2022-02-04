@@ -101,7 +101,7 @@ Hi, I'm Luis Octavio, passionate about computer science
     </td>
     <td align="center" width="96">
       <a href="#Lucho00Cuba">
-        <img src="https://www.softexia.com/wp-content/uploads/2015/12/Windows-10-Logo-e1456135336195.png" width="38" height="38" alt="Windows"/>
+        <img src="https://ecoportatil.es/wp-content/uploads/2019/04/WINDOWS-2.png" width="38" height="38" alt="Windows"/>
       </a>
       <br>Windows
     </td>
