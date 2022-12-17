@@ -58,9 +58,9 @@ Hi, I'm Luis Octavio, passionate about computer science
     </td>
     <td align="center" width="96">
       <a href="#Lucho00Cuba">
-        <img src="https://picodotdev.github.io/blog-bitix/assets/images/logotypes/mysql.svg" width="50" height="35" alt="MySQL" />
+        <img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" width="31" height="38" alt="SQL" />
       </a>
-      <br>MySQL
+      <br>SQL
     </td>
     <td align="center" width="96">
       <a href="#Lucho00Cuba">
@@ -144,9 +144,9 @@ Hi, I'm Luis Octavio, passionate about computer science
     </td>
     <td align="center" width="96">
       <a href="#Lucho00Cuba">
-        <img src="https://www.docker.com/blog/wp-content/uploads/2020/02/Compose.png" width="45" height="45" alt="Docker Compose" />
+        <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-mimetypes/512/app-x-yaml-icon.png" width="45" height="45" alt="Docker Compose" />
       </a>
-      <br>Docker Compose
+      <br>YAML
     </td>
     <td align="center" width="96">
       <a href="#Lucho00Cuba">
@@ -174,6 +174,12 @@ Hi, I'm Luis Octavio, passionate about computer science
         <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_nginx_icon_130305.png" width="48" height="48" alt="Nginx" />
       </a>
       <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <a href="#Lucho00Cuba">
+        <img src="https://images.peerspot.com/image/upload/c_scale,f_auto,q_auto,w_200/qGkXsViSyLHpNwSoNknVse3x.png" width="42" height="42" alt="Nginx" />
+      </a>
+      <br>HA-Proxy
     </td>
     <td align="center" width="96">
       <a href="#Lucho00Cuba">
@@ -215,7 +221,7 @@ Hi, I'm Luis Octavio, passionate about computer science
     </td>
     <td>
       <a href="https://github.com/Lucho00Cuba">
-        <img alt="Lucho | Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucho00cuba&layout=compact&hide=css, scss, javascript&theme=dark"/>
+        <img alt="Lucho | Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucho00cuba&layout=compact&hide=css, scss, javascript, html&theme=dark"/>
       </a>
     </td>
   </tr>
