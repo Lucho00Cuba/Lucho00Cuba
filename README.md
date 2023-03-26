@@ -7,13 +7,14 @@
 ## Hi there, I'm [Lucho | Just_Me](https://lucho00cuba.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--Banner de mas-->
+<!--
 <img align="right" alt="GIF" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="300" height="180" />
 
 <a href="https://twitter.com/zzjust_mezz">
   <img align="left" alt="Lucho | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://es.linkedin.com/in/luis-octavio-mota-verdasco-sys-admin">
-  <img align="left" alt="Lucho | Twitter" width="38px" src="https://logos-marcas.com/wp-content/uploads/2020/04/Linkedin-s%C3%ADmbolo.png" />
+  <img align="left" alt="Lucho | Linkedin" width="38px" src="https://logos-marcas.com/wp-content/uploads/2020/04/Linkedin-s%C3%ADmbolo.png" />
 </a>
 <a href="https://t.me/sysadmin_devops">
   <img align="left" alt="Lucho Telegram" width="21px" src="https://telegram.org/img/t_logo.png" />
@@ -21,6 +22,11 @@
 
 <br>
 <br>
+-->
+<img align="right" alt="GIF" src="https://media.giphy.com/media/BemKqR9RDK4V2/giphy.gif" width="300" height="180" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=flat)](https://es.linkedin.com/in/luis-octavio-mota-verdasco-sys-admin)  [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=flat)](https://t.me/sysadmin_devops)  [![Twitter](https://img.shields.io/badge/Twitter-%23ffffff.svg?logo=twitter&logoColor=flat)](https://twitter.com/zzjust_mezz)
+
 
 Hi, I'm Luis Octavio, passionate about computer science
 
@@ -221,7 +227,7 @@ Hi, I'm Luis Octavio, passionate about computer science
     </td>
     <td>
       <a href="https://github.com/Lucho00Cuba">
-        <img alt="Lucho | Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucho00cuba&layout=compact&hide=css, scss, javascript, html&theme=dark"/>
+        <img alt="Lucho | Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucho00cuba&layout=compact&hide=css,scss,javascript,html&theme=dark"/>
       </a>
     </td>
   </tr>
@@ -257,3 +263,5 @@ Hi, I'm Luis Octavio, passionate about computer science
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Lucho00Cuba&repo=Python&theme=dark" />
 </a>
 -->
+
+<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
