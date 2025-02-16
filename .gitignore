@@ -1,0 +1,6 @@
+# Local files
+.local
+*.local
+
+# MacOS
+.DS_Store
