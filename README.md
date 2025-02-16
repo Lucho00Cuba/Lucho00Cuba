@@ -1,7 +1,6 @@
 ## Hi there, I'm [Lucho | Just_Me](https://lucho00cuba.github.io) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ###
-<img align="right" alt="GIF" src="assets/typing.gif" alt="Typing GIF" width="300" height="180" />
 
 <div align="left">
   <a href="https://www.linkedin.com/in/luis-octavio-mota-verdasco-sys-admin" target="_blank">
@@ -11,6 +10,16 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="20" alt="twitter logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" src="assets/typing.gif" width="300" height="180" alt="Typing GIF" />
+
+### 👋 About Me:
+- 💻 Passionate about **Computer Science & DevOps/SRE**
+- 🚀 Automating infrastructure & building scalable platforms
+- 🌱 Currently learning **Advanced Networking & Kubernetes**
+- 💬 Ask me anything [here](https://github.com/Lucho00Cuba/Lucho00Cuba/issues)
 
 ###
 
