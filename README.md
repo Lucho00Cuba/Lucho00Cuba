@@ -17,11 +17,13 @@
 
 ###
 
-<img align="right" src="https://raw.githubusercontent.com/lucho00cuba/lucho00cuba/main/assets/typing.gif" width="300" height="180" alt="Typing GIF" />
+<img align="right" src="https://raw.githubusercontent.com/lucho00cuba/lucho00cuba/main/assets/typing.gif" width="300" height="180" alt="Typing GIF" style="margin-top: -10px;" />
 
 - 💻 Passionate about **Computer Science & DevOps/SRE**
 - 🚀 I automate infrastructure & building scalable platforms
+- 🔧 Solving complex problems with automation, cloud, and scalable architectures
 - 🌱 Currently learning **Advanced Networking & Kubernetes**
+- 📖 Always learning & sharing knowledge about DevOps, Cloud, and Networking.
 - 💬 Ask me anything  <a href="mailto:lomv0209@gmail.com">here</a>
 
 ###
